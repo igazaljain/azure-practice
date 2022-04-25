@@ -1,0 +1,2 @@
+# azure-practice
+Azure project
